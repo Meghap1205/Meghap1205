@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Megha Patel</h1>
 <h3 align="center">A MERN stack developer from India</h3>
 
--3rd year Computer Science student at NIT Surat
+- 3rd year Computer Science student at NIT Surat
 
 - 👨‍💻 All of my projects are available at [https://meghap1205.github.io/Portfolio](https://meghap1205.github.io/Portfolio)
 
