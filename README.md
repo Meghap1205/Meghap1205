@@ -3,6 +3,8 @@
 
 - 3rd year Computer Science student at NIT Surat
 
+- To reach me **meghajpatel1205@gmail.com**
+
 - 👨‍💻 All of my projects are available at [https://meghap1205.github.io/Portfolio](https://meghap1205.github.io/Portfolio)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q_dsC1uclIgJWE7pAkkY4F65HJ8nyV24/view](https://drive.google.com/file/d/1Q_dsC1uclIgJWE7pAkkY4F65HJ8nyV24/view)
